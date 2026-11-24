@@ -1,0 +1,6 @@
+{
+  "name": "TaskLedger",
+  "description": "A crisp, responsive single-page To-Do List application with full CRUD, search, filtering, sorting, dark mode, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
